@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+# Visual Studio Unused Files
+*.VC.db
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
